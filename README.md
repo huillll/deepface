@@ -156,3 +156,5 @@ There are many ways to support a project - starring⭐️ the GitHub repos is ju
 # Licence
 
 Deepface is licensed under the MIT License - see [`LICENSE`](https://github.com/serengil/deepface/blob/master/LICENSE) for more details.
+
+win10 python3.6.5 ok
